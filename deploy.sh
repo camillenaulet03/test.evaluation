@@ -1,7 +1,6 @@
 #!/usr/bin/env sh
 set -e
 npm run build
-npm run db:serve
 cd dist
 
 cd dist
